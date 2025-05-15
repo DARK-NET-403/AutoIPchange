@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/Made%20With-Tor-orange?style=for-the-badge&logo=tor" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00FF00&center=true&vCenter=true&width=500&lines=AutoIPchange+Tool;by+Ariyan+Rabbi+(Dʌʀĸ-Nɘt);IP+Sensor+Activated;Live+IP+Switching;Stay+Anonymous;Change+Your+IP+Every+X+Minutes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AutoIPchange+Tool+by+Ariyan+Rabbi(Dʌʀĸ-Nɘt)D;Tor-Based+Auto+IP+Changer;Stay+Anonymous+%7C+Change+Your+IP+Every+X+Minutes" alt="Typing SVG" />
 </p>
 
 ---
